@@ -5,7 +5,6 @@ public class Decrypt {
     private String lowercase = "abcdefghijklmnopqrstuvwxyz";
     private String special = "!#$%&'()*+,-./:;<=>?@[]^_`{|}~";
     private String numbers = "0123456789";
-    private char ch;
     private String decryptedMessage = "";
 
     public String Decrypt(String Statement, int Key) {
@@ -41,5 +40,11 @@ public class Decrypt {
         }
 
         return decryptedMessage;
+    }
+    public int getKey() {
+        return this.Key;
+    }
+    public String getStatement() {
+        return this.Statement;
     }
 }
