@@ -5,14 +5,14 @@ import static org.junit.Assert.*;
 public class EncryptTest {
 
     @Test
-    public void encrypt_instantiate() throws Exception {
+    public void encrypt_instantiate_true() throws Exception {
         Encrypt encrypt = new Encrypt();
         String output=encrypt.Encrypt("beast",2);
         assertEquals(true,encrypt instanceof Encrypt);
 
     }
     @Test
-    public void encrypt_findKey() {
+    public void encrypt_findKey_Integer() {
         Encrypt encrypt = new Encrypt();
         String output=encrypt.Encrypt("winner",5);
         assertEquals(5,encrypt.getKey());
