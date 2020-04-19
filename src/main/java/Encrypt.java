@@ -46,4 +46,10 @@ public class Encrypt {
 
         return encryptedMessage;
     }
+    public int getKey() {
+        return this.Key;
+    }
+    public String getStatement() {
+        return this.Statement;
+    }
 }
