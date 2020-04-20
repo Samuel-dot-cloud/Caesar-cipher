@@ -2,10 +2,10 @@
 The project is titled 'Julius Caesar cipher'. The project basically functions as the title suggests.
 
 ## AUTHOR NAME.
-My name is Samuel and i am currently a learning software programmer at Moringa School.
+My name is Samuel and i am currently a learning software programmer at Moringa School.:man_technologist::man_technologist:
 
 ## DESCRIPTION OF PROJECT.
-The project is a Java command line application that is able to take a string and encrypt it by shifting the arrangement of individual characters through use of a cipher first used by Julius Caesar himself.
+The project is a Java command line application that is able to take a string and encrypt it by shifting the arrangement of individual characters through use of a cipher first used by Julius Caesar himself.:ok_hand::ok_hand:
 
 ### PROJECT SETUP INSTRUCTIONS.
 1.Fork this repository.
