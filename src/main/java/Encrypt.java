@@ -5,7 +5,6 @@ public class Encrypt {
     private String lowercase = "abcdefghijklmnopqrstuvwxyz";
     private String special = "!#$%&'()*+,-./:;<=>?@[]^_`{|}~";
     private String numbers = "0123456789";
-    private char ch;
     private String encryptedMessage = "";
 
 
