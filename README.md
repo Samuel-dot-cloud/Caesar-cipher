@@ -15,7 +15,10 @@ The project is a Java command line application that is able to take a string and
 5.In order to make any additional changes to the project, it is highly adviced that you install an appropriate IDE(Integrated Development Environment).
 
 ### TECHNOLOGIES USED.
-Java was the only language used when designing the application.
+Java.
+Gradle.
+JUnit.
+
 
 ### KNOWN BUGS.
 The app is unable to encrypt numbers or special symbols.
